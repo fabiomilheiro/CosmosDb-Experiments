@@ -9,8 +9,8 @@ namespace console
 {
     class Program
     {
-        public static readonly string _endpointUri = "https://cosmoslab99236.documents.azure.com:443/";
-        public static readonly string _primaryKey = "WShx23AHHgV0eetZezHJWBhJqnuTqF2RSmBTVVMYEHFwoh23nOVEQZRHYfDqInefalJwKzBiSoeSwD1W8oC1VQ==";
+        public static readonly string _endpointUri = "https://localhost:8081";
+        public static readonly string _primaryKey = "C2y6yDjf5/R+ob0N8A7Cgv30VRDJIWEHLM+4QDU5DE2nQ9nDuVTqobD4b8mGGyPMbIZnqyMsEcaGQy67XIw/Jw==";
 
         static async Task Main(string[] args)
         {
